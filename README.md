@@ -44,12 +44,7 @@
       <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code><br/><br/>
       <a href="https://github.com/deepakMali2005/vault-distributed-object-storage"><strong>View Repo »</strong></a>
     </td>
-    <td width="33%" valign="top">
-      <h4 align="center">💼 UBS Internship</h4>
-      <p><strong>SWE Intern (Summer '26)</strong></p>
-      <sub>Built enterprise modules in banking across React, TS, Tailwind, backend APIs, & data flows. Merged <strong>19 prod PRs</strong>.</sub><br/><br/>
-      <small><i>*Details omitted per NDA</i></small>
-    </td>
+
   </tr>
 </table>
 
