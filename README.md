@@ -26,31 +26,6 @@
   <img src="assets/divider.svg" width="100%" alt="divider" />
 </p>
 
-### 🚀 Featured Engineering & Experience
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">🔍 STRATA</h4>
-      <p><strong>Distributed Search Engine</strong></p>
-      <sub>BM25 + Semantic vector search with persistent shards, event-driven indexing, and global ranking.</sub><br/><br/>
-      <code>FastAPI</code> <code>PostgreSQL</code> <code>Kafka</code> <code>Docker</code><br/><br/>
-      <a href="https://github.com/deepakMali2005/distributed-search-engine"><strong>View Repo »</strong></a>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">📦 VAULT</h4>
-      <p><strong>Distributed Object Storage</strong></p>
-      <sub>Logical bucket over storage nodes with replication, heartbeat failure detection, and auto-repair.</sub><br/><br/>
-      <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code><br/><br/>
-      <a href="https://github.com/deepakMali2005/vault-distributed-object-storage"><strong>View Repo »</strong></a>
-    </td>
-
-  </tr>
-</table>
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" alt="divider" />
-</p>
 
 ### 🏆 Competitive Programming & Metrics
 
