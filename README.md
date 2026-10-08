@@ -1,56 +1,84 @@
-<p align="center">
-  <img src="assets/hero-terminal.svg" alt="Deepak Mali Terminal Header" width="100%" />
-</p>
-
-<!-- COMPACT STATS & ABOUT -->
-<p align="center">
-  <img src="assets/status-card.svg" alt="Quick Stats Banner" width="100%" />
-</p>
-
-<blockquote align="center">
-  <strong>Software Engineer / Builder</strong> • Final-Year IT @ DJSCE • Ex-SWE Intern @ <strong>UBS</strong><br/>
-  Crafting full-stack web apps, scalable backend APIs, & distributed systems with Java, Python, TS, & AI tech.
-</blockquote>
+<h1 align="center">Deepak Mali</h1>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="divider" />
-</p>
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,ts,js,react,nextjs,tailwind,fastapi,express,spring,postgres,redis,mongodb,kafka,docker,git&perline=9" alt="Tech Stack" />
+  <b>Software Engineer · Backend & Distributed Systems</b><br/>
+  Final-year IT @ DJSCE · Summer Intern @ UBS
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="divider" />
+  <a href="https://www.linkedin.com/in/deepak-mali-7aa375290/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/deepak_2027/">LeetCode</a> ·
+  <a href="https://www.codechef.com/users/deepakk_mali">CodeChef</a> ·
+  <a href="https://codeforces.com/profile/PixelPotato">Codeforces</a>
 </p>
 
+---
 
-### 🏆 Competitive Programming & Metrics
+## About
 
-<p align="center">
-  <a href="https://leetcode.com/u/deepak_2027" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Guardian_2127_(Top_1.37%25)-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a> &nbsp;
-  <a href="https://www.codechef.com/users/deepakk_mali" target="_blank"><img src="https://img.shields.io/badge/CodeChef-3★_1626_(Top_5%25)-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a> &nbsp;
-  <a href="https://codeforces.com/profile/PixelPotato" target="_blank"><img src="https://img.shields.io/badge/Codeforces-Pupil_1224-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
-</p>
+I'm a backend engineer who enjoys system design: working out how a system should be structured, where it can fail, and how it holds up as it grows. I like logical, simple solutions.
 
-<table width="100%">
+Graduating June 2027 and open to backend and infrastructure roles.
+
+---
+
+## Tech
+
+<table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=deepakMali2005&show_icons=true&card_width=420&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B5CF6&border_color=30363D&hide_border=false" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=deepakMali2005&layout=compact&langs_count=5&card_width=420&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B5CF6&border_color=30363D&hide_border=false" alt="Top Languages" />
-    </td>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,py,cpp,ts,js" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,flask,spring,express" /></td>
+  </tr>
+  <tr>
+    <td><b>Data & Infra</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,docker,linux,git" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /></td>
   </tr>
 </table>
 
-<!-- FOOTER / CONNECT -->
-<p align="center">
-  <a href="https://github.com/deepakMali2005" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a> &nbsp;
-  <a href="https://www.linkedin.com/in/deepak-mali-7aa375290/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> &nbsp;
-  <a href="mailto:dmali1033@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <br/>
-  <font color="#8B949E"><sub>Designed & Built by Deepak Mali • 2026</sub></font>
-</p>
+**Applied AI:** LangChain · LangGraph · MCP · RAG · Vector Embeddings
+<br>
+**Fundamentals:** Data Structures & Algorithms · Operating Systems · DBMS · OOP
+
+---
+
+## Competitive Programming
+
+[**LeetCode**](https://leetcode.com/u/deepak_2027/) 2127 · Guardian, Top 1.37%
+[**CodeChef**](https://www.codechef.com/users/deepakk_mali) 1626 · 3★
+[**Codeforces**](https://codeforces.com/profile/PixelPotato) 1224 · Pupil
+
+Top 71 at Code Uncode 2025 · Top 20 at Codespree 2025
+
+---
+
+## Experience
+
+**UBS** · Summer Intern
+Pune, India · Jun – Aug 2026
+
+**DJS CodeStars** · Tech Team Head
+Aug 2025 – Aug 2026
+
+- Led the national-level Code Uncode contest end to end for 2,000+ participants
+- Built the committee website and started weekly contests for students
+
+---
+
+## Education
+
+**Dwarkadas J. Sanghvi College of Engineering** · B.Tech, Information Technology
+2023 – 2027 · CGPA 9.05
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/deepak-mali-7aa375290/) · [LeetCode](https://leetcode.com/u/deepak_2027/) · [CodeChef](https://www.codechef.com/users/deepakk_mali) · [Codeforces](https://codeforces.com/profile/PixelPotato)
